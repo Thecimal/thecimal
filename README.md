@@ -39,13 +39,13 @@ I am an interdisciplinary sound and media artist, and web developer working unde
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://workspace.kidashidesign.com" target="_blank">
+  <a href="https://kidashidesign.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/behnoud-mohammadi-57a150112/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
