@@ -24,7 +24,7 @@ Welcome to the digital workspace of Behnoud Mohammadi. Operating under the alias
 
 *   **Transmission Node:** Tbilisi, Georgia
 *   **Portfolio / Studio:** workspace.kidashidesign.com *(Initiating...)*
-*   **Drop a Demo / Connect:** [Add your email or social link here]
+*   **Drop a Demo / Connect:** instagram.com/thecimal
 
 ---
 <div align="center">
