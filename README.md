@@ -14,12 +14,12 @@
 
 Operating at the intersection of soundscapes and DOM architecture. Known in the physical realm under the studio protocol **Kidashi Design**. Constructing single-page topologies, kinetic spaces, and generative sonic algorithms.
 
-* 🔭 **Executing:** Materializing *Fanus-e Khiyal* (Illuminationist kinetic space) and compiling the *Neural Eve* choreographic system.
-* 🌱 **Calibrating:** Synthesizing Germanic linguistics and deconstructing jazz harmony micro-structures.
+* 🔭 **Executing:** KidashiDesign web development, GEO/SEO Engines, Webdesign Optimizers 
+* 🌱 **Calibrating:** Learning more about GEO, deconstructing jazz harmony micro-structures. 
 * 📡 **Connecting:** Seeking nodes for interactive audio-visual web rituals via the Web Audio API.
 * 🧩 **Decoding:** Researching advanced algorithmic mapping for global data visualization anomalies.
 * 💬 **Transmissions:** Query me regarding house production frameworks, HTML5 Canvas routing, or Cloudflare edge deployments.
-* 🌐 **Coordinates:** **[workspace.kidashidesign.com](https://workspace.kidashidesign.com)**
+* 🌐 **Coordinates:** **[kidashidesign.com](https://kidashidesign.com)**
 * ⚙️ **Infrastructure:** Primary rendering, deployment, and simulation environments are hosted entirely on a local Ubuntu Linux mainframe.
 
 ### 🎛️ Technical Frameworks
