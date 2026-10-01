@@ -1,23 +1,2 @@
-# Hi, I'm Behnoud 👋
-
-**Creative Technologist · AI Developer · Sound & Media Artist**
-
-I build tools and digital experiences at the intersection of **AI, web technology, creative coding, sound, and generative systems**.
-
-## 🚀 What I Build
-
-* AI-powered developer tools & automation
-* Web performance, SEO, GEO & AEO tools
-* Interactive websites & creative coding experiments
-* Generative audio and audiovisual systems
-* Open-source developer utilities
-
-## ⚙️ Tech Stack
-
-**Python · JavaScript · React · Next.js · Node.js · AI/ML · Web Audio API · Docker · GitHub Actions · Linux**
-
-## 🎧 Beyond Code
-
-I'm also a sound and media artist exploring **generative audio, algorithmic composition, microtonality, and interactive installations**.
-
-> Building where technology, sound, and creative systems collide.
+<img width="1254" height="1254" alt="e666bf54-db84-49f7-a803-9485aacd0955" src="https://github.com/user-attachments/assets/94a81bc7-a9ac-4b11-b2cf-4b792bd4f176" />
+<img src="https://github.com/Thecimal/quantified-self-mcp/" width="1536" height="1024" alt="bd0ee6dc-c3e0-4c7d-8bc7-17de569e1cb5" src="https://github.com/user-attachments/assets/447e8018-b56f-4dfb-bfa9-909e9ad0de6f" />
